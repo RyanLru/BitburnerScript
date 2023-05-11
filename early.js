@@ -1,5 +1,9 @@
 /** @param {NS} ns */
 export async function main(ns) {
+    
+    // This script can be upgrade for better hack with just change the target 
+    // to another server with a maximum of 1 port required and BruteSSh.exe program   
+    
     // Defines the "target server", which is the server
     // that we're going to hack. In this case, it's "n00dles"
     const target = "n00dles";
